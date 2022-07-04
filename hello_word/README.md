@@ -1,3 +1,3 @@
 - You need to have node.js
 - run command: node hello_word/hello_world.js
-- Open in browser: localhost:300
+- Open in browser: localhost:3000
